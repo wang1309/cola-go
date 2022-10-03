@@ -1,1 +1,1 @@
-# COLA-COLA-GO
+# cola go version
